@@ -1,14 +1,14 @@
 //
-//  ViewController.swift
+//  CardsVC.swift
 //  DateHaven
 //
-//  Created by Jim Aven on 5/15/15.
+//  Created by Jim Aven on 5/11/15.
 //  Copyright (c) 2015 Jim Aven. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIPageViewController {
+class CardsVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

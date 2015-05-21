@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  LoginVC.swift
 //  DateHaven
 //
 //  Created by Jim Aven on 5/15/15.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIPageViewController {
+class LoginVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
