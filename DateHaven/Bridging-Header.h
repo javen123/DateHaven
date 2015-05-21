@@ -6,8 +6,8 @@
 //  Copyright (c) 2015 Jim Aven. All rights reserved.
 //
 
-#ifndef DateHaven_Bridging_Header_h
-#define DateHaven_Bridging_Header_h
-
-
-#endif
+#import <Parse/Parse.h>
+#import <FBSDKCoreKit/FBSDKCoreKit.h>
+#import <FBSDKLoginKit/FBSDKLoginKit.h>
+#import <ParseFacebookUtilsV4/PFFacebookUtils.h>
+#import <ParseUI/ParseUI.h>
